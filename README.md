@@ -1,5 +1,9 @@
 # Using `elm-starter`
 
+- Elm 0.18
+- Webpack
+- Ports example
+
 After cloning the repository, install all the necessary dependencies:
 
 ```
@@ -21,3 +25,8 @@ Or run the webpack dev server at http://localhost:3000:
 ```
 npm run dev
 ```
+
+
+![Question](http://i.imgur.com/W4QHT1N.png)
+
+![Answer](http://i.imgur.com/IRFIL1d.png)
